@@ -1,0 +1,20 @@
+Assignment 13: 
+Objective: 
+To learn packet capturing and analysis. 
+Exercise: 
+Create a binary tree topology with 7 switches in mininet. Capture packets at the root 
+switch. Write a C program to extract the headers and draw a time diagram to show 
+the protocols displayed in the captured file (save the .pcap/.pcapng file of 
+wireshark/tshark) during a PING operation. List the L2, L3, L4 protocols that can be 
+extracted from the .pcap/.pcapng file. 
+Steps/ Hints: (if any) 
+1. Create the mininet topology with mn command. 
+2. Open the root switch with xterm and capture the packets there. Save the 
+captured packet in pcap/pcapng file. 
+3. Draw a time diagram in C showing occurrences of different types of packets with 
+time. 
+4. List the unique types of the packets or the types of protocol from the extracted 
+packets. 
+Learning Outcomes:  
+1. Learning to analyze packets and its corresponding protocols. 
+2. Learning the roles of L2/L3/L4 protocols for a communication.
