@@ -1,0 +1,8 @@
+Packet#    Time(s)     L2          L3        L4         Info
+-------    --------    ----        ----      ----       ----
+     1    0.000000    ETH         IPv4       ICMP       127.0.0.1 -> 127.0.0.1  type=8 code=0
+     2    0.000009    ETH         IPv4       ICMP       127.0.0.1 -> 127.0.0.1  type=0 code=0
+     3    1.047554    ETH         IPv4       ICMP       127.0.0.1 -> 127.0.0.1  type=8 code=0
+     4    1.047562    ETH         IPv4       ICMP       127.0.0.1 -> 127.0.0.1  type=0 code=0
+     5    2.071878    ETH         IPv4       ICMP       127.0.0.1 -> 127.0.0.1  type=8 code=0
+     6    2.071887    ETH         IPv4       ICMP       127.0.0.1 -> 127.0.0.1  type=0 code=0
